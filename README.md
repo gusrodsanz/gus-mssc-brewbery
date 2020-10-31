@@ -1,1 +1,1 @@
-# gus-mssc-brewbery
+# mssc-brewbery
